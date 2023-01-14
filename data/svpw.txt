@@ -1,0 +1,29 @@
+					
+					
+jstafford	member	b	Stafford	John & Chris	509kent@gmail.com
+vmorgan	vicki	b	Morgan	Vicki & Pat	vmorgan@archtoronto.org
+					
+arios	webmaster	a	Rios	Andres	arios
+amyaraskavitch	yaraskavitcham	b	Yaraskavitch	Anne-Marie	amyaraskavitch@sympatico.ca
+Wong	member	a	Wong	Ian	ian.wong@rogers.com
+Hudson	member	b	Hudson	Gary & Annette	annette.hudson@sympatico.ca
+Deschenes	member	b	Deschenes	Gerry & Roberta	deschenes.family@sympatico.ca
+Huppe	1022zack	b	Huppe	Don & Cathy	djhuppe@gmail.com
+lladouceur	Len&Sharon	a	Ladouceur	Len	lenshar@rogers.com
+Mcmonagle	member	a	McMonagle	Gail	bgmcmonagle@rogers.com
+Toner	member	b	Toner	Des & Francis	dtoner2000@rogers.com
+washburn	member	b	Washburn	Shirley	sawashburn@hotmail.com
+ptreacy	Taliya22	b	Treacy	Patrick	patrickthink3@gmail.com
+dayaraskavitch	yaraskavitchd	a	Yaraskavitch	Don	dayaraskavitch@sympatico.ca
+laineyk	Morris11	b	Kennedy	Lainey	laineyk@rogers.com
+maggied	whiskers27	b	Dawson	Maggie & Mike	dawsonm@rogers.com
+jcamacho	svdp_st_john	b	Camacho	Jose & Rowyna 	rowyna_camacho@rogers.com
+ccampbell	statutes	b	Campbell	Chris & Paula	campbell2293@hotmail.com
+scahill	svdp_st_john	b	Cahill	Sabine	sabine.cahill@hotmail.ca
+cfernandes	cass9shen66	b	Fernandes	Cathy	cathyann49@hotmail.com
+pdaurelio	svdp_st_john	b	D'Aurelio	Paul	pgap@sympatico.ca
+ROGERMOORE	ridingthroughtl	b	Moore	Roger	andresrios@rogers.com
+prloomans	temp01$	b	Loomans	Piet & Rose	loomans.rp@rogers.com
+rgarrett	svdp_st_john	b	Garrett	Ramona	ramonatgarrett@gmail.com
+New Member		b		wghat happens	
+New Member		b		what happens	

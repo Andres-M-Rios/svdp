@@ -1,0 +1,90 @@
+
+body {
+	font-family: Helvetica, Tahoma, Arial, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	font-weight: normal;
+	background-color: #ffffff;
+}
+a {
+	text-decoration: none;
+	color: #003399;
+	text-align: center;
+}
+a:hover {
+	text-decoration: none;
+	color: #888888;
+}
+
+.main a:link { color:#664400; text-decoration:none; font-style:italic; font-size:20px}
+.main a:visited {color:#664400; text-decoration:none; font-style:italic; font-size:20px}
+.main a:hover {color:#664400; background-color:#cccccc; font-style:italic;  font-size:20px}
+.main a:active {color:#664400; text-decoration:none; font-style:italic; font-size:20px}
+
+.email {font-size: 20px; font-family: "Times New Roman", Times, serif; text-align:left}
+
+.normal a:link {color:#003399;   font-size:14px}
+.normal a:visited {color:#003399; text-decoration:none;  font-size:14px}
+.normal a:hover {color:#eeeeee; background-color:#003399;   font-size:14px}
+.normal a:active {color:#888888; text-decoration:none;  font-size:14px}
+.normal {font-size: 14px; font-family: "Helvetica, Tahoma, Arial, sans-serif"; color: #003399; text-align:left}
+
+.links {
+	text-align: left;
+	font-size: 18px;
+	font-weight: bold;
+	color: #003399;
+}
+
+.flag {
+	border-style: none;
+	background-color: #aa0000;
+	text-align: center;
+	color: #ffffff;
+}
+
+.name {
+	text-align: center;
+	background-color: #ffffff;
+	font-size: 32px;
+	font-weight: bold;
+	color: #003399;
+}
+
+.visit {
+	text-align: left;
+	font-size: 14px;
+	background-color: #ffffff;
+	color: #003399;
+	border-top:1px #666666 solid;
+}
+
+.fieldtitle {
+	font-size: 12px;
+	font-weight: bold;
+	color: #333399;	
+}
+
+.address {
+	text-align: left;
+	font-size: 14px;
+	background-color: #ffffff;
+	color: #003399;
+	border-style: inset;
+	border-width:3px
+}
+
+.header {
+	text-align: center;
+	font-size: 16px;
+	color: #003399;
+	font-weight:bold;
+}
+
+.borders { 
+	border-bottom: 4px #aaaaaa solid;
+	border-top: 4px #0066cc solid;
+	border-left: 4px #0066cc solid;
+	border-right: 4px #aaaaaa solid;
+	background-color:#FFFFFF;
+}
