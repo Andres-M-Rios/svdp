@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php
-setcookie("svdp","",time()-60);
+if ($_COOKIE["svdp"] != " ")
+  setcookie("svdp","",time()-60);
 ?>
 <html><head><title>Welcome to SSVDP Whitby, Ontario</title>
 <link rel='shortcut icon' href='favicon.ico'>
